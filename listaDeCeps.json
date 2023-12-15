@@ -1,0 +1,18 @@
+[
+  {
+    "cep": "84430-000",
+    "logradouro": "",
+    "bairro": "",
+    "localidade": "Imbituva",
+    "uf": "PR",
+    "ddd": "42"
+  },
+  {
+    "cep": "95180-360",
+    "logradouro": "Rua Marina Zini Soprana",
+    "bairro": "São José",
+    "localidade": "Farroupilha",
+    "uf": "RS",
+    "ddd": "54"
+  }
+]
